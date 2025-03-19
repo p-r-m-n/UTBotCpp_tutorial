@@ -13,9 +13,9 @@ The latest available version encountered installation issues, so version 2022.12
 Follow the installation steps outlined in the official guide:
 [Install UTBotCpp Server on Ubuntu](https://github.com/UnitTestBot/UTBotCpp/wiki/install-server-on-ubuntu)
 
-Additionally, it's necessary to install `cmake` using the following commands:
+Additionally, it's necessary to install some dependencies and `cmake` using the following command:
 ```sh
-sudo apt-get install cmake
+sudo apt-get install build-essential cmake
 ```
 After completing the installation steps, you can run the server locally. In this setup, both the server and client are installed on the same machine.
 
