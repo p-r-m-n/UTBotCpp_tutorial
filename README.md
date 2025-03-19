@@ -4,7 +4,7 @@
 UTBotCpp is a powerful tool designed to assist in unit test generation for C++ projects. It operates using a client-server architecture and serves as a wrapper for KLEE, which in turn relies on specific versions of LLVM and GCC.
 
 ## Requirements
-- Ubuntu 24.04
+- Ubuntu 20.04
 - Visual Studio Code (VSCode)
 
 ## Installation
@@ -13,9 +13,8 @@ The latest available version encountered installation issues, so version 2022.12
 Follow the installation steps outlined in the official guide:
 [Install UTBotCpp Server on Ubuntu](https://github.com/UnitTestBot/UTBotCpp/wiki/install-server-on-ubuntu)
 
-Additionally, you need to install `cmake` and `bear` using the following commands:
+Additionally, it's necessary to install `cmake` using the following commands:
 ```sh
-sudo apt-get install bear
 sudo apt-get install cmake
 ```
 After completing the installation steps, you can run the server locally. In this setup, both the server and client are installed on the same machine.
