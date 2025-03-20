@@ -1,7 +1,7 @@
 # UTBotCpp
 
 ## Introduction
-UTBotCpp is a powerful tool designed to assist in unit test generation for C and C++ projects. It operates using a client-server architecture and serves as a wrapper for KLEE, which in turn relies on specific versions of LLVM and GCC. This repository uses the example application in [c-example](https://github.com/UnitTestBot/UTBotCpp/tree/main/integration-tests/c-example).
+UTBotCpp is a powerful tool designed to assist in unit test generation for C and C++ projects. It operates using a client-server architecture and serves as a wrapper for KLEE, which in turn relies on specific versions of LLVM and GCC. This repository uses an example application of UTBotCpp, located in [c-example](https://github.com/UnitTestBot/UTBotCpp/tree/main/integration-tests/c-example).
 
 ## Requirements
 - Ubuntu 20.04
