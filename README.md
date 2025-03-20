@@ -38,3 +38,5 @@ For a better understanding of how to use UTBotCpp, refer to the official tutoria
 
 After these steps, the tests can be executed directly from the generated test files and the results will be showed in the **UTBot: Test Console**. Also, the source code tested will highlight the lines covered by the test.
 
+For this example, the source code "src/calc.c" can be used to generate tests.
+
