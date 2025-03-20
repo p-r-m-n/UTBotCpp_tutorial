@@ -19,8 +19,6 @@ Follow the official guide for plugin installation:
 
 (Note: The server and client must run the same version.)
 
-Additionally, install the `CMake Tools` plugin for VSCode to ensure proper functionality.
-
 ## Usage
 After installing and activating the UTBot plugin in VSCode, open the repository containing your project. The plugin will open a windows to configure the project for testing.
 
